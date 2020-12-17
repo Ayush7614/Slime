@@ -8,7 +8,7 @@
 
 ## Author
 
-- https://anuraghazra.github.io
+- https://ayush7614.github.io/ayushportfolio.github.io/
 - ayushknj3@gmail.com
 
 Contributions Are Welcomed.
